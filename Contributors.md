@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [samTime101](https://github.com/samTime101)
 - [Areeb Fazli](https://github.com/areebfazli)
 - [Hussain Murtaza](https://github.com/Hussain760)
 - [Ruairi Coleman](https://github.com/RuairiColeman)
